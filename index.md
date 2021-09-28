@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <form class="" action="index.html" method="post">
+      <label>You Name:</label>
+      <input type="text" name="" value=""> <br>
+      <input type= "Submit"><br>
+      <input type="file">
+      <br>
+      <input type="date">
+      <br>
+      <input type="radio">
+      <br>
+      <input type="range">
+    </form>
+  </body>
+</html>
